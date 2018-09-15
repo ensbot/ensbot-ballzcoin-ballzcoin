@@ -2,7 +2,7 @@
 
 Official golang implementation of Ballzcoin.
 
-Binary archives are published at https://ballzcoin.org/downloads/.
+Binary archives are published at https://ballzcoin.org/releases/.
 
 ## Building the source
 
